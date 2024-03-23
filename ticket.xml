@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tickets>
+<ticket><date>2024-03-23 13:21:26</date><items><item name="iPhone"><count>3</count><price>1000</price><total>3000</total></item><item name="Mouse"><count>1</count><price>200</price><total>200</total></item><item name="iPad"><count>1</count><price>300</price><total>300</total></item><item name="iPod"><count>2</count><price>150</price><total>300</total></item><item name="MacBook"><count>6</count><price>1500</price><total>9000</total></item></items><total>12800</total></ticket></tickets>

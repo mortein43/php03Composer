@@ -1,0 +1,25 @@
+{
+    "name": "org.eizenheim/composer",
+    "description": "Composer. Task4.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "OrgEizenheim\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eizenheim",
+            "email": "mortein43@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.3",
+        "ramsey/uuid": "^4.7.5"
+    },
+    "scripts": {
+        "start": "php -S localhost:8081"
+    }
+}
